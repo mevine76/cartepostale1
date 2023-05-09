@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+main {
+    width: 50%;
+    float: left;
+}
+
+aside {
+    width: 30%;
+    float: right;
+}
+
+#postcard {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+#postcard-image {
+    width: 100%;
+}
+
+#postcard-title {
+    margin: 0;
+}
+
+#postcard-message {
+    margin: o;
+}
+
+.image-button {
+    margin: 6px;
+}
+
+.title-input {
+    margin-top: 20px;
+}
